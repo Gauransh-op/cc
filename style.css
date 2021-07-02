@@ -1,0 +1,57 @@
+.copy_right_footer{
+    position: fixed;
+    color: lightsteelblue;
+    bottom: 0px;
+    width: 100%;
+    background-color: mediumvioletred;
+    line-height: 3;
+    text-align: center;
+    }
+
+    .heading{
+        width: 100%;
+        margin: 0px;
+        box-shadow:5px 5px 5px grey;
+        font-size: 25px;
+      }
+
+      .heading_div1{
+        width: 70%;
+        position: fixed;
+        font-size: 25px;
+        
+      }
+
+      body{
+        text-align: center;
+      }
+
+      .bottle{
+        background: darkgrey;
+        border-radius: 20px;
+        text-align: center;
+      }
+
+      .bed{
+        background: darkgrey;
+        border-radius: 20px;
+        text-align: center;
+      }
+
+      .headphones{
+        background: darkgrey;
+        border-radius: 20px;
+        text-align: center;
+      }
+
+      .shoes{
+        background: darkgrey;
+        border-radius: 20px;
+        text-align: center;
+      }
+
+      .toy{
+        background: darkgrey;
+        border-radius: 20px;
+        text-align: center;
+      }
